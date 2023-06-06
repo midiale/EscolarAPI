@@ -1,0 +1,11 @@
+{
+  "version": 2,
+  "dgSpecHash": "8Bhr6SKAWmW+oxWqBJL0sJjGPD+9oKPG+YXZHJu1GiNPdraZ6i0MI695jTxgJga5Dcql4x9NAi4V/5Q6uKPuCw==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\midia\\OneDrive\\Documentos\\UDEMY\\WEB API\\Escolar\\Escolar.Application\\Escolar.Application.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\midia\\.nuget\\packages\\automapper\\12.0.1\\automapper.12.0.1.nupkg.sha512",
+    "C:\\Users\\midia\\.nuget\\packages\\microsoft.csharp\\4.7.0\\microsoft.csharp.4.7.0.nupkg.sha512"
+  ],
+  "logs": []
+}

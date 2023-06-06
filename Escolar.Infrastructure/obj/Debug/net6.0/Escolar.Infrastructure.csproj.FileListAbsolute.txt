@@ -1,0 +1,17 @@
+C:\Users\midia\OneDrive\Documentos\UDEMY\WEB API\Escolar\Escolar.Infrastructure\bin\Debug\net6.0\Escolar.Infrastructure.deps.json
+C:\Users\midia\OneDrive\Documentos\UDEMY\WEB API\Escolar\Escolar.Infrastructure\bin\Debug\net6.0\Escolar.Infrastructure.runtimeconfig.json
+C:\Users\midia\OneDrive\Documentos\UDEMY\WEB API\Escolar\Escolar.Infrastructure\bin\Debug\net6.0\Escolar.Infrastructure.dll
+C:\Users\midia\OneDrive\Documentos\UDEMY\WEB API\Escolar\Escolar.Infrastructure\bin\Debug\net6.0\Escolar.Infrastructure.pdb
+C:\Users\midia\OneDrive\Documentos\UDEMY\WEB API\Escolar\Escolar.Infrastructure\bin\Debug\net6.0\Escolar.Domain.dll
+C:\Users\midia\OneDrive\Documentos\UDEMY\WEB API\Escolar\Escolar.Infrastructure\bin\Debug\net6.0\Escolar.Domain.pdb
+C:\Users\midia\OneDrive\Documentos\UDEMY\WEB API\Escolar\Escolar.Infrastructure\obj\Debug\net6.0\Escolar.Infrastructure.csproj.AssemblyReference.cache
+C:\Users\midia\OneDrive\Documentos\UDEMY\WEB API\Escolar\Escolar.Infrastructure\obj\Debug\net6.0\Escolar.Infrastructure.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\midia\OneDrive\Documentos\UDEMY\WEB API\Escolar\Escolar.Infrastructure\obj\Debug\net6.0\Escolar.Infrastructure.AssemblyInfoInputs.cache
+C:\Users\midia\OneDrive\Documentos\UDEMY\WEB API\Escolar\Escolar.Infrastructure\obj\Debug\net6.0\Escolar.Infrastructure.AssemblyInfo.cs
+C:\Users\midia\OneDrive\Documentos\UDEMY\WEB API\Escolar\Escolar.Infrastructure\obj\Debug\net6.0\Escolar.Infrastructure.csproj.CoreCompileInputs.cache
+C:\Users\midia\OneDrive\Documentos\UDEMY\WEB API\Escolar\Escolar.Infrastructure\obj\Debug\net6.0\Escolar.Infrastructure.csproj.CopyComplete
+C:\Users\midia\OneDrive\Documentos\UDEMY\WEB API\Escolar\Escolar.Infrastructure\obj\Debug\net6.0\Escolar.Infrastructure.dll
+C:\Users\midia\OneDrive\Documentos\UDEMY\WEB API\Escolar\Escolar.Infrastructure\obj\Debug\net6.0\refint\Escolar.Infrastructure.dll
+C:\Users\midia\OneDrive\Documentos\UDEMY\WEB API\Escolar\Escolar.Infrastructure\obj\Debug\net6.0\Escolar.Infrastructure.pdb
+C:\Users\midia\OneDrive\Documentos\UDEMY\WEB API\Escolar\Escolar.Infrastructure\obj\Debug\net6.0\Escolar.Infrastructure.genruntimeconfig.cache
+C:\Users\midia\OneDrive\Documentos\UDEMY\WEB API\Escolar\Escolar.Infrastructure\obj\Debug\net6.0\ref\Escolar.Infrastructure.dll

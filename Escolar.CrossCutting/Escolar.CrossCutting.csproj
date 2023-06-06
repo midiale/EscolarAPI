@@ -1,0 +1,20 @@
+<Project Sdk="Microsoft.NET.Sdk">
+
+  <PropertyGroup>
+    <TargetFramework>net6.0</TargetFramework>
+    <ImplicitUsings>enable</ImplicitUsings>
+    <Nullable>disable</Nullable>
+  </PropertyGroup>
+
+  <ItemGroup>
+    <PackageReference Include="AutoMapper.Extensions.Microsoft.DependencyInjection" Version="12.0.1" />
+    <PackageReference Include="Microsoft.Extensions.DependencyInjection.Abstractions" Version="7.0.0" />
+  </ItemGroup>
+
+  <ItemGroup>
+    <ProjectReference Include="..\Escolar.Application\Escolar.Application.csproj" />
+    <ProjectReference Include="..\Escolar.Domain\Escolar.Domain.csproj" />
+    <ProjectReference Include="..\Escolar.Infrastructure\Escolar.Infrastructure.csproj" />
+  </ItemGroup>
+
+</Project>

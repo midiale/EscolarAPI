@@ -1,0 +1,15 @@
+C:\Users\midia\OneDrive\Documentos\UDEMY\WEB API\Escolar\Escolar.Application\bin\Debug\net6.0\Escolar.Application.deps.json
+C:\Users\midia\OneDrive\Documentos\UDEMY\WEB API\Escolar\Escolar.Application\bin\Debug\net6.0\Escolar.Application.dll
+C:\Users\midia\OneDrive\Documentos\UDEMY\WEB API\Escolar\Escolar.Application\bin\Debug\net6.0\Escolar.Application.pdb
+C:\Users\midia\OneDrive\Documentos\UDEMY\WEB API\Escolar\Escolar.Application\bin\Debug\net6.0\Escolar.Domain.dll
+C:\Users\midia\OneDrive\Documentos\UDEMY\WEB API\Escolar\Escolar.Application\bin\Debug\net6.0\Escolar.Domain.pdb
+C:\Users\midia\OneDrive\Documentos\UDEMY\WEB API\Escolar\Escolar.Application\obj\Debug\net6.0\Escolar.Application.csproj.AssemblyReference.cache
+C:\Users\midia\OneDrive\Documentos\UDEMY\WEB API\Escolar\Escolar.Application\obj\Debug\net6.0\Escolar.Application.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\midia\OneDrive\Documentos\UDEMY\WEB API\Escolar\Escolar.Application\obj\Debug\net6.0\Escolar.Application.AssemblyInfoInputs.cache
+C:\Users\midia\OneDrive\Documentos\UDEMY\WEB API\Escolar\Escolar.Application\obj\Debug\net6.0\Escolar.Application.AssemblyInfo.cs
+C:\Users\midia\OneDrive\Documentos\UDEMY\WEB API\Escolar\Escolar.Application\obj\Debug\net6.0\Escolar.Application.csproj.CoreCompileInputs.cache
+C:\Users\midia\OneDrive\Documentos\UDEMY\WEB API\Escolar\Escolar.Application\obj\Debug\net6.0\Escolar.Application.csproj.CopyComplete
+C:\Users\midia\OneDrive\Documentos\UDEMY\WEB API\Escolar\Escolar.Application\obj\Debug\net6.0\Escolar.Application.dll
+C:\Users\midia\OneDrive\Documentos\UDEMY\WEB API\Escolar\Escolar.Application\obj\Debug\net6.0\refint\Escolar.Application.dll
+C:\Users\midia\OneDrive\Documentos\UDEMY\WEB API\Escolar\Escolar.Application\obj\Debug\net6.0\Escolar.Application.pdb
+C:\Users\midia\OneDrive\Documentos\UDEMY\WEB API\Escolar\Escolar.Application\obj\Debug\net6.0\ref\Escolar.Application.dll
